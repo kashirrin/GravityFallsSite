@@ -55,7 +55,7 @@ img {
 }
 
 .tarjeta {
-  background-color: #5a5a5a6c;
+  background-image: linear-gradient(180deg, #49a7ff7a,#02f7ff50);
 }
 
 .tarjeta-contenido {
